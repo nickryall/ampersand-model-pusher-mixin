@@ -1,0 +1,26 @@
+{
+  "name": "ampersand-model-pusher-mixin",
+  "description": "Keep your Ampersand Models always up-to-date by capturing Pusher events from the server.",
+  "version": "0.0.1",
+  "devDependencies": {
+    "underscore": "1.6.0"
+  },
+  "homepage": "https://github.com/nickryall/ampersand-model-pusher-mixin",
+  "keywords": [
+    "pusher",
+    "ampersand",
+    "collection"
+  ],
+  "license": "MIT",
+  "main": "ampersand-model-pusher-mixin.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickryall/ampersand-model-pusher-mixin"
+  },
+  "maintainers": [
+    {
+      "name": "nickryall",
+      "email": "me@nickryall.com.au"
+    }
+  ]
+}
