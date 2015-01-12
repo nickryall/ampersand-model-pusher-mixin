@@ -37,7 +37,6 @@ module.exports = {
             this.interval = options.interval || 5000;
         }
         
-        
         if (this.liveType === "pusher") {
 
             if (!options.pusherChannel) {
